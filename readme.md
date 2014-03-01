@@ -12,13 +12,12 @@
 
 	```
 	salary 30,000, deposit 50,000, property_value 200,000
-    salary 30,000, deposit 50,000, property_value 300,000
+	salary 30,000, deposit 50,000, property_value 300,000
  	salary 50,000, deposit 40,000, property_value 200,000
 	salary 80,000, deposit 100,000, property_value 500,000
 	salary 35,000, deposit 60,000, property_value 300,000
 	salary 25,000, deposit 30,000, property_value 150,000
 	```
-
 * Then run the code with these inputs and see if you're right or wrong.
 * Extend the provide_mortage?() method to require 5% deposit if the value of the property is less than 650,000 and 20% if it's 650,000 or more.
 * Extend the provide_mortgage?() method to waive the limit on the loan amount if the deposit is 75% or more.
