@@ -34,4 +34,4 @@
 
 ###Other details
 
-The test was set by Evgeny Shadchnev [@shadchnev](https://github.com/shadchnev)
+The test was set by [Evgeny Shadchnev](https://github.com/shadchnev)
