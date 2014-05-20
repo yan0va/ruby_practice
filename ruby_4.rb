@@ -1,4 +1,5 @@
-File.open("hello_from_ruby.txt", "w+") { |f| f.write("A journey of a thousand miles begins with a single step.") }
+File.open("hello_from_ruby.txt", "w+") do |f|
+  f.write("A journey of a thousand miles begins with a single step.")
 end
 
 File.open("hello_from_ruby.txt", "a+") do |f| 
