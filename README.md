@@ -3,6 +3,10 @@
 ##Makers Academy Week 2 Exercises
 
 
+#####Ruby 1 and Ruby 2 
+Exercises from [Makers Academy](https://github.com/makersacademy) hackpad to learn the very basics of Ruby programming language. 
+
+
 ###Tasks
 
 
