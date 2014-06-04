@@ -3,6 +3,7 @@
 ##Makers Academy Week 2 Exercises
 
 
+
 #####Ruby 1 and Ruby 2 
 Exercises from [Makers Academy](https://github.com/makersacademy) hackpad to learn the very basics of Ruby programming language. 
 
@@ -38,4 +39,4 @@ Exercises from [Makers Academy](https://github.com/makersacademy) hackpad to lea
 
 ###Other details
 
-The test was set by [Evgeny Shadchnev](https://github.com/shadchnev)
+These tasks were set by [Evgeny Shadchnev](https://github.com/shadchnev)
